@@ -1,7 +1,8 @@
 ###  Hi👋 Nice to see you.
+Welcome to my page TurterDev! 
+<p align="center"><img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="250" height="160" /></p>
 
-Welcome to my page TurterDev! <br>
-I'm Turter from Thailand, majoring Computer Engineering, I have skills in the develop Web Application and Moblie Application.
+I'm Turter from Thailand, majoring Computer Engineering, Currently living in Bangkok city. I have skills in the develop Web Application and Moblie Application. I can do disign UX/UI, Database Management Develop frontend and Backend.
 
 <!--
 **TurterDev/TurterDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -55,6 +56,9 @@ Here are some ideas to get you started:
       </td>
   </tr>
   <tr> -->
+  <p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+</p>
  
  ------------
 <p align="center"><!--This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, 27 May, 17:07 CEST<br /></p>
