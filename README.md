@@ -1,7 +1,7 @@
 ###  Hi👋 Nice to see you.
 Welcome to my page TurterDev! 
 <p align="center"><img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="250" height="237" />
-<img align="center-top" alt="GIF" src="https://raw.githubusercontent.com/turterdev/turterdev/main/Turterdev-logo-white.png" width="350" height="200"/>
+<img align="center-top" alt="GIF" src="https://raw.githubusercontent.com/turterdev/turterdev/main/Turterdev-logo-white.png" width="300" height="200"/>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/turterdev/turterdev/main/techstack.gif" width="250"/>
 </p>
 
