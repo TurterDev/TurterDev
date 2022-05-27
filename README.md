@@ -1,6 +1,7 @@
 ###  Hi👋 Nice to see you.
 
-Welcome to my page!
+Welcome to my page TurterDev! <br>
+I'm Turter from Thailand, majoring Computer Engineering, I have skills in the develop Web Application and Moblie Application.
 
 <!--
 **TurterDev/TurterDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- <h3>Things I code with</h3>
+ <h3>Coding Skills </h3>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-2088FF?style=flat-square&logo=Javascript&logoColor=white" />
@@ -46,11 +47,15 @@ Here are some ideas to get you started:
   <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
   <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" /> -->
 </p>
-  <tr>
+ <!-- <tr>
         <td  align="center">
         <details open><summary>With icons</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.topics.icons.svg" alt=""></img></details>
         <details open><summary>With labels</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.topics.svg" alt=""></img></details>
         <img width="900" height="1" alt="">
       </td>
   </tr>
-  <tr>
+  <tr> -->
+ 
+ ------------
+<p align="center"><!--This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, 27 May, 17:07 CEST<br /></p>
+<p align="center"><img src="https://github.com/turterdev/turterdev/workflows/README%20build/badge.svg" />--> <img alt="Stars" src="https://img.shields.io/github/stars/turterdev/turterdev?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/turterdev/turterdev?style=flat-square&labelColor=343b41"/></p>
