@@ -1,6 +1,8 @@
 ###  Hi👋 Nice to see you.
 Welcome to my page TurterDev! 
-<p align="center"><img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="250" height="160" /></p>
+<p align="center"><img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="250" height="237" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/turterdev/turterdev/main/techstack.gif" width="250"/>
+</p>
 
 I'm Turter from Thailand, majoring Computer Engineering, Currently living in Bangkok city. I have skills in the develop Web Application and Moblie Application. I can do disign UX/UI, Database Management Develop frontend and Backend.
 
