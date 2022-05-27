@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- <h3>Coding Skills </h3>
+ <h3>✨Coding Skills ⚡ </h3>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-2088FF?style=flat-square&logo=Javascript&logoColor=white" />
