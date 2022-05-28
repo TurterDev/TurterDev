@@ -5,7 +5,7 @@ Welcome to my page TurterDev!
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/turterdev/turterdev/main/techstack.gif" width="250"/>
 </p>
 
-I'm Turter from Thailand, majoring Computer Engineering, Currently living in Bangkok city. I have skills in the develop Web Application and Moblie Application. I can do disign UX/UI, Database Management Develop frontend and Backend.
+I'm Turter from Thailand, majoring Computer Engineering, Currently living in Bangkok city. I have skills in the develop Web Application and Moblie Application. I can do disign UX/UI, Database Management Develop frontend and Backend, interested in Technology and Software management.
 
 <!--
 **TurterDev/TurterDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
