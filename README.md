@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img alt="vuejs" src="https://img.shields.io/badge/-vue.js-13aa52?style=flat-square&logo=vue.js&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="mssql" src="https://img.shields.io/badge/-MS-SQL-Server-5849BE?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+  <img alt="mssql" src="https://img.shields.io/badge/-Microsoft_SQL_Server-5849BE?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
   <img alt="mysql" src="https://img.shields.io/badge/-mysql-5849BE?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
