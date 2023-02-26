@@ -28,6 +28,7 @@ Here are some ideas to get you started:
   <img alt="css3" src="https://img.shields.io/badge/-css3-2088FF?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-007ACC?style=flat-square&logo=Flutter&logoColor=white" />
   <img alt="C Sharp" src="https://img.shields.io/badge/-C_Sharp-764ABC?style=flat-square&logo=c-sharp&logoColor=white" />
+  <img alt="Dart" src="https://img.shields.io/badge/-Dart-45b8d8?style=flat-square&logo=dart&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-764ABC?style=flat-square&logo=php&logoColor=white" />
   <img alt="python" src="https://img.shields.io/badge/-python-2088FF?style=flat-square&logo=python&logoColor=white" />
   <img alt="laravel" src="https://img.shields.io/badge/-laravel-DD0031?style=flat-square&logo=laravel&logoColor=white" />
