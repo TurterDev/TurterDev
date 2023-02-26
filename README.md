@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   <img alt="mysql" src="https://img.shields.io/badge/-mysql-5849BE?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-1a73e8?style=flat-square&logo=ubuntulogoColor=white" />
+  <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-1a73e8?style=flat-square&logo=ubuntu&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="Amazon Web Services" src="https://img.shields.io/badge/-Amazon_Web_Services-F05032?style=flat-square&logo=amazon&logoColor=white" />
   
